@@ -1,16 +1,8 @@
 # AI_Projects_and_Experiments
-My personal projects and experiments stemming from my first AI course
+My personal projects, experiments and school practices about AI (general AI course, ML, and DL).
 
 ## Description
-This repository contains artificial intelligence projects and experiments that I developed in my first course in the subject. These projects and experiments are based on the following topics:
-
-- Representation
-- Searching
-- Games (minimax)
-- Constraint satisfaction problems (CSP)
-- Planning
-
-Future projects about machine learning and deep learning will be available on different repositories.
+This repository contains artificial intelligence projects and experiments that I developed in my university courses. Also includes some personal projects and experiments that I developed on my own. Due to my university courses were taken in Spanish, some of the notebooks and scripts were written in Spanish. So feel free to ask any questions.
 
 ## Author
 Arnoldo Fernando Chue Sánchez
