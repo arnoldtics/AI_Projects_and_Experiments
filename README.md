@@ -23,19 +23,19 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 - Conducted metric-driven decision-making to select the best model for specific use cases.  
 
 ### Machine Learning Certificate: Unsupervised Learning Project  
-[View Project](ML_Certificate_Practice_KMeans_KMedoids)  
+[View Project](ML_Certification/ML_Certificate_Practice_KMeans_KMedoids)  
 - Applied **K-Means** and **K-Medoids** clustering algorithms for client segmentation.  
 
 ### Machine Learning Certificate: Logistic Regression Project  
-[View Project](ML_Certificate_Practice_Logistic_Regresion)  
+[View Project](ML_Certification/ML_Certificate_Practice_Logistic_Regresion)  
 - Developed a logistic regression model to classify Uber and Lyft users in Boston.  
 
 ### Machine Learning Certificate: k-Nearest Neighbors Project  
-[View Project](ML_Certificate_Practice_KNN)  
+[View Project](ML_Certification/ML_Certificate_Practice_KNN)  
 - Implemented the **k-Nearest Neighbors (k-NN)** algorithm to classify water deposits using real data from the state government.  
 
 ### Machine Learning Certificate: Decision Tree Project  
-[View Project](ML_Certificate_Practice_Decision_Tree_Clasification)  
+[View Project](ML_Certification/ML_Certificate_Practice_Decision_Tree_Clasification)  
 - Built a decision tree model to classify social media platform users into distinct age groups.  
 
 ### 15 Puzzle Solver  
