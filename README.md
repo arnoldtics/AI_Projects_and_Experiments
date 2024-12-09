@@ -8,7 +8,7 @@ This repository contains artificial intelligence projects and experiments that I
 Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects
--  15 Puzzle solver using A* algorithm with traditional heuristics ![15 Puzzle Solver](15_puzzle)
+-  15 Puzzle solver using A* algorithm with traditional heuristics [15 Puzzle Solver](15_puzzle)
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
