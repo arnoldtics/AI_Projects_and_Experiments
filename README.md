@@ -9,6 +9,10 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects  
 
+### Deep Learning Certificate: First Aproach to Convolutional Neural Networks
+[view Project](DL_Certification/DL_CNN_first_approach/)
+- Implementation of different CNN architectures in tensorflow and keras for image classification
+
 ### Machine Learning: Supervised Learning Final Project  
 [View Project](ML_Supervised_Learning_ML_Class_Project)  
 - Implemented traditional machine learning algorithms and combined them into an **ensemble model**.  
