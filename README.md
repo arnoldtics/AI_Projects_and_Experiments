@@ -9,6 +9,11 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects  
 
+### Deep Learning Certificate: Transfer Learning for Fresh Fruit Detection
+[View Project](DL_Certification/DL_transfer_learning_fruit/Tarea3_Arnoldo.ipynb)
+- Utilized transfer learning with a pretrained model to achieve high accuracy in detecting fresh and rotten fruit.
+- Gained hands-on experience with image preprocessing and manipulation using TensorFlow and Keras.
+
 ### Deep Learning Certificate: Convolutional Neural Network Models for Mosquito Species Detection
 [View Project](DL_Certification/DL_mosquito/Tarea2_Arnoldo.ipynb)
 - Preprocessed mosquito image datasets to prepare high-quality input for training convolutional neural networks.
