@@ -9,6 +9,11 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects  
 
+### Deep Learning Certificate: Large Language Model Development
+[View Project](DL_Certification/DL_LLM_prompt_experiments/Tarea6_Arnoldo.ipynb)
+- Connected to Llama Studio to leverage a pretrained Large Language Model (LLM).
+- Designed and optimized prompts to develop an LLM for vocational guidance, ready for production deployment at a university.
+
 ### Deep Learning Certificate: Introduction to Transformer Architecture 
 [View Project](DL_Certification/DL_transformer_translate/Tarea5_Arnoldo.ipynb)
 - Processed and prepared a dataset to build a Hebrew-Spanish translation corpus.
