@@ -9,6 +9,16 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects 
 
+### Deep Learning: Decrappify. Super Resolution Model
+[View Project](DL_Decrappify/Decrappify.ipynb)
+- Explored decrappify models by utilizing U-Net architectures to reconstruct degraded images with high fidelity.
+- Implemented a super-resolution model capable of transforming low-resolution images (32x32 pixels) into high-resolution outputs (256x256 pixels), effectively reconstructing images from just 1/64th of their original resolution.
+
+### Deep Learning: Segmentation with Customized Metrics
+[View Project](DL_Segmentation/Segmentation.ipynb)
+- Conducted experiments with segmentation models to detect multiple objects within a single image.
+- Designed and implemented custom performance metrics to evaluate model accuracy for a specific category, leveraging advanced tensor manipulations in PyTorch.
+
 ### Deep Learning: Tabular Data. Combination of continuous and categorical variables with Pytorch and Fastai
 [View Project](DL_Tabular_Data/TabularData.ipynb)
 - Data exploration and cleaning of Higgs dataset
