@@ -9,6 +9,11 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects 
 
+### Deep Learning: Tabular Data. Combination of continuous and categorical variables with Pytorch and Fastai
+[View Project](DL_Tabular_Data/TabularData.ipynb)
+- Data exploration and cleaning of Higgs dataset
+- Implementation of a neural network for tabular data using categorical and continuous variables
+
 ### Deep Learning: Simultaneous Classification and Regression for Images
 [View Project](DL_multiple_classification_and_regression/Multiple_classification_regression.ipynb)
 - Developed a convolutional neural network (CNN) capable of predicting multiple categories (classification) and a continuous value (regression) from a single image.
