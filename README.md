@@ -9,6 +9,18 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects 
 
+### Deep Learning: Cartoon ImageNet Sample Classification Contest
+[View Project](DL_CartoonImageNet_Classification)
+- Achieved first place in a deep learning model competition for classification using a sample of ImageNet with cartoon-style transformations.
+- Worked under strict constraints:
+    - Fewer than 10 million parameters.
+    - Training limited to 12 epochs.
+    - Images capped at 256x256 resolution.
+    - Maximum training time of 2 minutes per epoch on a system with 11 GB of VRAM.
+- Designed and implemented custom layers, combining convolutions, normalization, and diverse activation functions.
+- Developed and optimized ResBlocks with innovative modifications to enhance model performance.
+- Entire project was coded using PyTorch and FastAI frameworks.
+
 ### Deep Learning: Animals Classification Using Resnet Architecture
 [View Project](DL_Animals_Clasifications_with_Resnet/Animals_Arnold.ipynb)
 - Conducted an animal classification task leveraging PyTorch and FastAI frameworks.
