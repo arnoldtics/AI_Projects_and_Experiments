@@ -9,6 +9,11 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects  
 
+### Deep Learning Certificate: Introduction to Transformer Architecture 
+[View Project](DL_Certification/DL_transformer_translate/Tarea5_Arnoldo.ipynb)
+- Processed and prepared a dataset to build a Hebrew-Spanish translation corpus.
+- Implemented a compact transformer architecture for translating text from Spanish to Hebrew.
+
 ### Deep Learning Certificate: Recurrent Neural Networks for Sentiment Analysis
 [View Project](DL_Certification/DL_RNN_sentiment_analysis/Tarea4_Arnoldo.ipynb)
 - Implemented sentiment analysis on tweets using Recurrent Neural Networks (RNNs).
