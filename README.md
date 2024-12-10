@@ -7,7 +7,13 @@ This repository contains artificial intelligence projects and experiments that I
 ## Author and Contact
 Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
-## List of Projects  
+## List of Projects 
+
+### Deep Learning: Animals Classification Using Resnet Architecture
+[View Project](DL_Animals_Clasifications_with_Resnet/Animals_Arnold.ipynb)
+- Conducted an animal classification task leveraging PyTorch and FastAI frameworks.
+- Designed and implemented custom data augmentation and image transformation techniques to enhance model performance.
+- Utilized the ResNet-18 architecture from Torch for feature extraction and classification.
 
 ### Deep Learning Certificate: Large Language Model Development
 [View Project](DL_Certification/DL_LLM_prompt_experiments/Tarea6_Arnoldo.ipynb)
