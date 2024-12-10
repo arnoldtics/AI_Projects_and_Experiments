@@ -9,6 +9,12 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects 
 
+### Deep Learning: Simultaneous Classification and Regression for Images
+[View Project](DL_multiple_classification_and_regression/Multiple_classification_regression.ipynb)
+- Developed a convolutional neural network (CNN) capable of predicting multiple categories (classification) and a continuous value (regression) from a single image.
+- Designed and implemented custom loss functions and metrics to handle the dual-task learning effectively.
+- Performed advanced tensor manipulations to optimize model outputs and improve computational efficiency.
+
 ### Deep Learning: Cartoon ImageNet Sample Classification Contest
 [View Project](DL_CartoonImageNet_Classification)
 - Achieved first place in a deep learning model competition for classification using a sample of ImageNet with cartoon-style transformations.
