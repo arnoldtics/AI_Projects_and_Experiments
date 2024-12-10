@@ -19,6 +19,12 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 - Conducted experiments with segmentation models to detect multiple objects within a single image.
 - Designed and implemented custom performance metrics to evaluate model accuracy for a specific category, leveraging advanced tensor manipulations in PyTorch.
 
+### Deep Learning: Tabular Data Model for Simultaneous Classification and Regression
+[View Project](DL_Tabular_General/GeneralTabular.ipynb)
+- Developed a deep learning model for tabular data, capable of predicting both a category (classification) and a continuous value (regression) simultaneously.
+- Implemented custom data preprocessing pipelines to integrate categorical and continuous variables effectively, enabling seamless use with the FastAI framework.
+- Designed and deployed custom loss functions and metrics to optimize the dual-output model and ensure accurate performance.
+
 ### Deep Learning: Tabular Data. Combination of continuous and categorical variables with Pytorch and Fastai
 [View Project](DL_Tabular_Data/TabularData.ipynb)
 - Data exploration and cleaning of Higgs dataset
