@@ -9,8 +9,13 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects  
 
+### Deep Learning Certificate: Convolutional Neural Network Models for Mosquito Species Detection
+[View Project](DL_Certification/DL_mosquito/Tarea2_Arnoldo.ipynb)
+- Preprocessed mosquito image datasets to prepare high-quality input for training convolutional neural networks.
+- Trained and evaluated multiple convolutional neural network (CNN) architectures in Tensorflow and Keras to enhance detection accuracy for dangerous mosquito species.
+
 ### Deep Learning Certificate: First Aproach to Convolutional Neural Networks
-[view Project](DL_Certification/DL_CNN_first_approach/)
+[view Project](DL_Certification/DL_CNN_first_approach/Tarea1_Arnoldo.ipynb)
 - Implementation of different CNN architectures in tensorflow and keras for image classification
 
 ### Machine Learning: Supervised Learning Final Project  
@@ -20,14 +25,14 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 - Conducted hyperparameter tuning for each component of bagging ensembles to optimize performance.  
 
 ### Machine Learning Metrics and Cross-Validation  
-[View Project](ML_Metrics_And_Cross_Validation)  
+[View Project](ML_Metrics_And_Cross_Validation/Proyecto.ipynb)  
 - Deployed multiple classification algorithms, including **decision trees**, **k-NN**, **Naive Bayes**, **logistic regression**, and **support vector machines**.  
 - Optimized models to maximize key metrics such as **accuracy**, **recall**, **precision**, and **F1-score**.  
 - Utilized cross-validation to prevent overfitting and improve model generalization.  
 - Conducted metric-driven decision-making to select the best model for specific use cases.  
 
 ### Machine Learning Certificate: Unsupervised Learning Project  
-[View Project](ML_Certification/ML_Certificate_Practice_KMeans_KMedoids)  
+[View Project](ML_Certification/ML_Certificate_Practice_KMeans_KMedoids/Tarea4_ArnoldoFernandoChueSánchez.ipynb)  
 - Applied **K-Means** and **K-Medoids** clustering algorithms for client segmentation.  
 
 ### Machine Learning Certificate: Logistic Regression Project  
@@ -35,15 +40,15 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 - Developed a logistic regression model to classify Uber and Lyft users in Boston.  
 
 ### Machine Learning Certificate: k-Nearest Neighbors Project  
-[View Project](ML_Certification/ML_Certificate_Practice_KNN)  
+[View Project](ML_Certification/ML_Certificate_Practice_KNN/Tarea3_ArnoldoFernandoChueSánchez.ipynb)  
 - Implemented the **k-Nearest Neighbors (k-NN)** algorithm to classify water deposits using real data from the state government.  
 
 ### Machine Learning Certificate: Decision Tree Project  
-[View Project](ML_Certification/ML_Certificate_Practice_Decision_Tree_Clasification)  
+[View Project](ML_Certification/ML_Certificate_Practice_Decision_Tree_Clasification/Tarea1_ArnoldoFernandoChueSánchez.ipynb)  
 - Built a decision tree model to classify social media platform users into distinct age groups.  
 
 ### 15 Puzzle Solver  
-[View Project](15_puzzle)  
+[View Project](15_puzzle/15_puzzle_classic.ipynb)  
 - Utilized the **A\*** algorithm with traditional heuristics to solve the 15-puzzle problem efficiently.  
 
 
