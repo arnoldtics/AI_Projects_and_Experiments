@@ -9,6 +9,12 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 ## List of Projects  
 
+### Deep Learning Certificate: Recurrent Neural Networks for Sentiment Analysis
+[View Project](DL_Certification/DL_RNN_sentiment_analysis/Tarea4_Arnoldo.ipynb)
+- Implemented sentiment analysis on tweets using Recurrent Neural Networks (RNNs).
+- Explored the fundamentals of RNN architectures through hands-on experiments with TensorFlow and Keras.
+- Note: While modern architectures like transformers offer superior performance, this project focused on understanding and applying RNNs as a foundational learning exercise.
+
 ### Deep Learning Certificate: Transfer Learning for Fresh Fruit Detection
 [View Project](DL_Certification/DL_transfer_learning_fruit/Tarea3_Arnoldo.ipynb)
 - Utilized transfer learning with a pretrained model to achieve high accuracy in detecting fresh and rotten fruit.
